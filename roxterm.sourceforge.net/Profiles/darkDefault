@@ -1,0 +1,19 @@
+[roxterm profile]
+colour_scheme=Default
+font=Dina 6
+hide_menubar=1
+show_resize_grip=0
+show_add_tab_btn=0
+always_show_tabs=0
+maximise=1
+allow_bold=1
+audible_bell=0
+bell_highlights_tab=0
+ssh_spawn_type=0
+init_tabs=1
+disable_tab_menu_shortcuts=1
+scrollbar_pos=0
+scroll_on_output=1
+win_title=%s
+background_type=2
+saturation=0.811798
